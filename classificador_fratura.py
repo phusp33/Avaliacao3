@@ -2,7 +2,7 @@ import os
 import pathlib
 import nrrd # pip install pynrrd
 import matplotlib.pyplot as plt
-
+# teste
 imgs_path = pathlib.Path('./images')
 
 for file_name in os.listdir(imgs_path):
